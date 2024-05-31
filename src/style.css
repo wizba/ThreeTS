@@ -1,0 +1,24 @@
+
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+
+body {
+  overflow: hidden;
+  margin: 0px;
+  background-color: aliceblue;
+ 
+}
+
+.draw{
+  position: fixed;
+  left: 0;
+  top: 0;
+  outline: none;
+}
